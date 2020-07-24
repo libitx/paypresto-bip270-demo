@@ -3662,9 +3662,9 @@ pathval@^1.1.0:
   integrity sha1-uULm1L3mUwBe9rcTYd74cn0GReA=
 
 paypresto.js@^0.1.0-beta:
-  version "0.1.0-beta.2"
-  resolved "https://registry.yarnpkg.com/paypresto.js/-/paypresto.js-0.1.0-beta.2.tgz#a2b965c8ca86e9f9b69d938b1d130a97e11bec92"
-  integrity sha512-quXtAf5g2+qDdpxjy7h4VjbW1r/l/pir6tqEXfsDWglE1mIX7pM7R3T/B4S2igQQ5XWQv+/97wuTrtOTiOzhvA==
+  version "0.1.0-beta.3"
+  resolved "https://registry.yarnpkg.com/paypresto.js/-/paypresto.js-0.1.0-beta.3.tgz#bdc17e3fffd6d171b0c6ec7e4e4cd355b69a0ea7"
+  integrity sha512-sNZUXc3zjPQPfKD6rA7onR5cW8FkDapCmpktcRC5f1Yp44RDC4JDKLVPKe9SAfSH/FbgYhCHqDz7dOcTFYkc7Q==
   dependencies:
     energy "^0.8.0"
     node-fetch "^2.6.0"
